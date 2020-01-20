@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-theme-firebase-auth",
+  "version": "1.0.0",
+  "description": "A gatsby theme that implements firebase auth",
+  "main": "index.js",
+  "author": "Diljit VJ",
+  "license": "MIT",
+  "keywords": [
+    "gatsby"
+  ],
+  "dependencies": {
+    "cookie-parser": "^1.4.4"
+  }
+}
